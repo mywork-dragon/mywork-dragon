@@ -26,31 +26,31 @@
   <a
     target="_blank"
     rel="noopener noreferrer"
-    href="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
+    href="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white"
     ><img
-      src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
+      src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white"
       alt="Typescript"
-      data-canonical-src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
+      data-canonical-src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white"
       style="height: 23px; max-width: auto"
   /></a>
   <a
     target="_blank"
     rel="noopener noreferrer"
-    href="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"
+    href="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white"
     ><img
-      src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"
+      src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white"
       alt="PHP"
-      data-canonical-src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"
+      data-canonical-src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white"
       style="height: 23px; max-width: auto"
   /></a>
   <a
     target="_blank"
     rel="noopener noreferrer"
-    href="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"
+    href="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white"
     ><img
-      src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"
+      src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white"
       alt="Ruby"
-      data-canonical-src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"
+      data-canonical-src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white"
       style="height: 23px; max-width: auto"
   /></a>
 </p>
@@ -100,41 +100,41 @@
   <a
     target="_blank"
     rel="noopener noreferrer"
-    href="https://img.shields.io/badge/Angular-20232A?style=flat&amp;logo=angular&amp;logoColor=61DAFB"
+    href="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white"
     ><img
-      src="https://img.shields.io/badge/Angular-20232A?style=flat&amp;logo=angular&amp;logoColor=61DAFB"
+      src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white"
       alt="Angular"
-      data-canonical-src="https://img.shields.io/badge/Angular-20232A?style=flat&amp;logo=angular&amp;logoColor=61DAFB"
+      data-canonical-src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white"
       style="max-width: auto; height: 23px; "
   /></a>
     <a
     target="_blank"
     rel="noopener noreferrer"
-    href="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"
+    href="https://img.shields.io/badge/Vue.js-35495E?logo=vuedotjs&logoColor=4FC08D"
     ><img
-      src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"
+      src="https://img.shields.io/badge/Vue.js-35495E?logo=vuedotjs&logoColor=4FC08D"
       alt="Vue"
-      data-canonical-src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"
+      data-canonical-src="https://img.shields.io/badge/Vue.js-35495E?logo=vuedotjs&logoColor=4FC08D"
       style="height: 23px; max-width: auto"
   /></a>
     <a
     target="_blank"
     rel="noopener noreferrer"
-    href="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"
+    href="https://img.shields.io/badge/next.js-000000?logo=nextdotjs&logoColor=white"
     ><img
-      src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"
+      src="https://img.shields.io/badge/next.js-000000?logo=nextdotjs&logoColor=white"
       alt="Next"
-      data-canonical-src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"
+      data-canonical-src="https://img.shields.io/badge/next.js-000000?logo=nextdotjs&logoColor=white"
       style="height: 23px; max-width: auto"
   /></a>
     <a
     target="_blank"
     rel="noopener noreferrer"
-    href="https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white"
+    href="https://img.shields.io/badge/nuxt.js-00C58E?logo=nuxtdotjs&logoColor=white"
     ><img
-      src="https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white"
+      src="https://img.shields.io/badge/nuxt.js-00C58E?logo=nuxtdotjs&logoColor=white"
       alt="Nuxt"
-      data-canonical-src="https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white"
+      data-canonical-src="https://img.shields.io/badge/nuxt.js-00C58E?logo=nuxtdotjs&logoColor=white"
       style="height: 23px; max-width: auto"
   /></a>
   <a
@@ -163,61 +163,61 @@
   <a
     target="_blank"
     rel="noopener noreferrer"
-    href="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"
+    href="https://img.shields.io/badge/Material--UI-0081CB?logo=material-ui&logoColor=white"
     ><img
-      src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"
+      src="https://img.shields.io/badge/Material--UI-0081CB?logo=material-ui&logoColor=white"
       alt="Material"
-      data-canonical-src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"
+      data-canonical-src="https://img.shields.io/badge/Material--UI-0081CB?logo=material-ui&logoColor=white"
       style="height: 23px; max-width: auto"
   /></a>
   <a
     target="_blank"
     rel="noopener noreferrer"
-    href="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"
+    href="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white"
     ><img
-      src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"
+      src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white"
       alt="Bootstrap"
-      data-canonical-src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"
+      data-canonical-src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white"
       style="height: 23px; max-width: auto"
   /></a>
   <a
     target="_blank"
     rel="noopener noreferrer"
-    href="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"
+    href="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white"
     ><img
-      src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"
+      src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white"
       alt="Tailwind"
-      data-canonical-src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"
+      data-canonical-src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white"
       style="height: 23px; max-width: auto"
   /></a>
   <a
     target="_blank"
     rel="noopener noreferrer"
-    href="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components"
+    href="https://img.shields.io/badge/styled--components-DB7093?logo=styled-components"
     ><img
-      src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components"
+      src="https://img.shields.io/badge/styled--components-DB7093?logo=styled-components"
       alt="Styled components"
-      data-canonical-src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"
+      data-canonical-src="https://img.shields.io/badge/styled--components-DB7093?logo=styled-components&logoColor=white"
       style="height: 23px; max-width: auto"
   /></a>
   <a
     target="_blank"
     rel="noopener noreferrer"
-    href="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white"
+    href="https://img.shields.io/badge/Chakra--UI-319795?logo=chakra-ui&logoColor=white"
     ><img
-      src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white"
+      src="https://img.shields.io/badge/Chakra--UI-319795?logo=chakra-ui&logoColor=white"
       alt="Chakra"
-      data-canonical-src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white"
+      data-canonical-src="https://img.shields.io/badge/Chakra--UI-319795?logo=chakra-ui&logoColor=white"
       style="height: 23px; max-width: auto"
   /></a>
   <a
     target="_blank"
     rel="noopener noreferrer"
-    href="https://img.shields.io/badge/Ant%20Design-1890FF?style=for-the-badge&logo=antdesign&logoColor=white"
+    href="https://img.shields.io/badge/Ant%20Design-1890FF?logo=antdesign&logoColor=white"
     ><img
-      src="https://img.shields.io/badge/Ant%20Design-1890FF?style=for-the-badge&logo=antdesign&logoColor=white"
+      src="https://img.shields.io/badge/Ant%20Design-1890FF?logo=antdesign&logoColor=white"
       alt="AntDesign"
-      data-canonical-src="https://img.shields.io/badge/Ant%20Design-1890FF?style=for-the-badge&logo=antdesign&logoColor=white"
+      data-canonical-src="https://img.shields.io/badge/Ant%20Design-1890FF?logo=antdesign&logoColor=white"
       style="height: 23px; max-width: auto"
   /></a>
 </p>  
@@ -236,11 +236,11 @@
   <a
     target="_blank"
     rel="noopener noreferrer"
-    href="https://img.shields.io/badge/Nest-43853D?style=flat&amp;logo=Nest&amp;logoColor=white"
+    href="https://img.shields.io/badge/nestjs-E0234E?logo=nestjs&logoColor=white"
     ><img
-      src="https://img.shields.io/badge/Nest-43853D?style=flat&amp;logo=Nest&amp;logoColor=white"
+      src="https://img.shields.io/badge/nestjs-E0234E?logo=nestjs&logoColor=white"
       alt="Nest"
-      data-canonical-src="https://img.shields.io/badge/Nest-43853D?style=flat&amp;logo=Nest&amp;logoColor=white"
+      data-canonical-src="https://img.shields.io/badge/nestjs-E0234E?logo=nestjs&logoColor=white"
       style="max-width: auto; height: 23px; "
   /></a>
   <a
@@ -256,41 +256,41 @@
   <a
     target="_blank"
     rel="noopener noreferrer"
-    href="https://img.shields.io/badge/DJango-F7DF1E?style=flat&amp;logo=django&amp;logoColor=black"
+    href="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=green"
     ><img
-      src="https://img.shields.io/badge/DJango-F7DF1E?style=flat&amp;logo=django&amp;logoColor=black"
+      src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=green"
       alt="DJango"
-      data-canonical-src="https://img.shields.io/badge/DJango-F7DF1E?style=flat&amp;logo=django&amp;logoColor=black"
+      data-canonical-src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=green"
       style="max-width: auto; height: 23px; "
   /></a>
     <a
     target="_blank"
     rel="noopener noreferrer"
-    href="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white"
+    href="https://img.shields.io/badge/fastapi-109989?logo=FASTAPI&logoColor=white"
     ><img
-      src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white"
+      src="https://img.shields.io/badge/fastapi-109989?logo=FASTAPI&logoColor=white"
       alt="Fast API"
-      data-canonical-src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white"
+      data-canonical-src="https://img.shields.io/badge/fastapi-109989?logo=FASTAPI&logoColor=white"
       style="height: 23px; max-width: auto"
   /></a>
   <a
     target="_blank"
     rel="noopener noreferrer"
-    href="https://img.shields.io/badge/Ruby_on_Rails-F7DF1E?style=flat&amp;logo=Ruby_on_Rails&amp"
+    href="https://img.shields.io/badge/Ruby_on_Rails-CC0000?logo=ruby-on-rails&logoColor=white"
     ><img
-      src="https://img.shields.io/badge/Ruby_on_Rails-F7DF1E?style=flat&amp;logo=Ruby_on_Rails&amp"
+      src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?logo=ruby-on-rails&logoColor=white"
       alt="Ruby_on_Rails"
-      data-canonical-src="https://img.shields.io/badge/Ruby_on_Rails-F7DF1E?style=flat&amp;logo=Ruby_on_Rails&amp;logoColor=black"
+      data-canonical-src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?logo=ruby-on-rails&logoColor=white"
       style="height:20px; max-width: auto; height: 23px; "
   /></a>
   <a
     target="_blank"
     rel="noopener noreferrer"
-    href="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"
+    href="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white"
     ><img
-      src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"
+      src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white"
       alt="Laravel"
-      data-canonical-src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"
+      data-canonical-src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white"
       style="height:20px; max-width: auto; height: 23px; "
   /></a>
 </p>
@@ -299,11 +299,11 @@
   <a
     target="_blank"
     rel="noopener noreferrer"
-    href="https://img.shields.io/badge/postgres-F7DF1E?style=flat&amp;logo=postgres&amp;logoColor=black"
+    href="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white"
     ><img
-      src="https://img.shields.io/badge/postgres-F7DF1E?style=flat&amp;logo=postgres&amp;logoColor=black"
+      src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white"
       alt="postgres"
-      data-canonical-src="https://img.shields.io/badge/postgres-F7DF1E?style=flat&amp;logo=postgres&amp;logoColor=black"
+      data-canonical-src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white"
       style="height:20px; max-width: auto; height: 23px; "
   /></a>
   <a
@@ -319,21 +319,21 @@
   <a
     target="_blank"
     rel="noopener noreferrer"
-    href="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B"
+    href="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white"
     ><img
-      src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B"
+      src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white"
       alt="MongoDB"
-      data-canonical-src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B"
+      data-canonical-src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white"
       style="height:20px; max-width: auto; height: 23px; "
   /></a>
   <a
     target="_blank"
     rel="noopener noreferrer"
-    href="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"
+    href="https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white"
     ><img
-      src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"
+      src="https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white"
       alt="SQLite"
-      data-canonical-src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"
+      data-canonical-src="https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white"
       style="height:20px; max-width: auto; height: 23px; "
   /></a>
   <a
@@ -402,21 +402,21 @@
   <a
     target="_blank"
     rel="noopener noreferrer"
-    href="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white"
+    href="https://img.shields.io/badge/Salesforce-00A1E0?logo=Salesforce&logoColor=white"
     ><img
-      src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white"
+      src="https://img.shields.io/badge/Salesforce-00A1E0?logo=Salesforce&logoColor=white"
       alt="Vercel"
-      data-canonical-src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white"
+      data-canonical-src="https://img.shields.io/badge/Salesforce-00A1E0?logo=Salesforce&logoColor=white"
       style="height:20px; max-width: auto; height: 23px; "
   /></a>
   <a
     target="_blank"
     rel="noopener noreferrer"
-    href="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"
+    href="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white"
     ><img
-      src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"
+      src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white"
       alt="Vercel"
-      data-canonical-src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"
+      data-canonical-src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white"
       style="height:20px; max-width: auto; height: 23px; "
   /></a>
 </p>
